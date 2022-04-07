@@ -5,8 +5,6 @@ import org.junit.jupiter.api.Test;
 
 import java.math.BigInteger;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class NthFibonacciTest {
 
     private final NthFibonacci nthFibonacci = new NthFibonacci();

@@ -6,8 +6,6 @@ import org.junit.jupiter.api.Test;
 import java.security.NoSuchAlgorithmException;
 import java.security.NoSuchProviderException;
 
-import static org.junit.jupiter.api.Assertions.*;
-
 class CharacterHashingTest {
 
     private CharacterHashing hashing = new CharacterHashing();
